@@ -1,0 +1,6 @@
+{
+  "name": "SIP Explainer",
+  "description": "A contextual AI investment explainer prototype for Groww mutual funds, featuring non-advisory guardrails and PM evaluation matrix.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
